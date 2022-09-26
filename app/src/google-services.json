@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447367663575",
+    "project_id": "myfile-1849a",
+    "storage_bucket": "myfile-1849a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447367663575:android:b6d377c32fe8fd7fa28592",
+        "android_client_info": {
+          "package_name": "com.hfad.mykeyboardsamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447367663575-tph3b3dm7mk1qsmsvifjfdt5c6q6tjqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA42LWiF9KqJZM4zAIR59dNYxy2HZJJ57I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447367663575-tph3b3dm7mk1qsmsvifjfdt5c6q6tjqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
